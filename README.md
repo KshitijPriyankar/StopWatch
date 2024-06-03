@@ -13,7 +13,7 @@ This Android app is a simple stopwatch application developed using Java and the 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/sambhavmahajan/StopWatch.git
+   git clone https://github.com/KshitijPriyankar/StopWatch.git
    ```
 
 2. Open the project in Android Studio.
@@ -26,8 +26,3 @@ This Android app is a simple stopwatch application developed using Java and the 
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
